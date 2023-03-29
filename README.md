@@ -1,3 +1,15 @@
+1. MB
+2. o čem to bude
+   - next.js 13
+   - ss / cs rendering
+3. demo
+   - nový router
+   - server vs client side
+   - data fetching
+4. hybridní architektury
+
+https://cf-assets.www.cloudflare.com/slt3lc6tev37/7Dy6rquZDDKSJoeS27Y6xc/4a671b7cc7894a475a94f0140981f5d9/what_is_a_cdn_distributed_server_map.png
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
